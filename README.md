@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/alexpeev9">
+  <!-- <a href="https://softuni.org/"> -->
     <img src="lessons/assets/cover-page/Java-Foundations-Full-Course-Nakov-Georgiev-SoftUni.png" alt="Java Foundations Cover" width="600">
-  </a>
+  <!-- </a> -->
 
   <h3 align="center">Free Java Foundations Certification Course</h3>
 </p>
@@ -43,10 +43,10 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 #### Why take our Java Certification course?
 
-🎯 It's 100% FREE<br>
-🎯 It will prepare you for the official Oracle Java Foundations exam (Exam Number: 1Z0-811)<br>
-🎯 It's led by professionals with many years of experience<br>
-🎯 It includes many in-depth explanations and practical exercises for your guaranteed success on the exam<br>
+🎯 It's 100% FREE.<br>
+🎯 It will prepare you for the official Oracle Java Foundations exam(Exam Number: 1Z0-811).<br>
+🎯 It's led by professionals with many years of experience.<br>
+🎯 It includes many in-depth explanations and practical exercises for your guaranteed success on the exam.<br>
 
 #### Who will lead this course?
 | Image | Name | About |
