@@ -1,7 +1,7 @@
 <p align="center">
-  <!-- <a href="https://softuni.org/"> -->
+  <a href="https://softuni.org/">
     <img src="lessons/assets/cover-page/Java-Foundations-Full-Course-Nakov-Georgiev-SoftUni.png" alt="Java Foundations Cover" width="600">
-  <!-- </a> -->
+  </a>
 
   <h3 align="center">Free Java Foundations Certification Course</h3>
 </p>
