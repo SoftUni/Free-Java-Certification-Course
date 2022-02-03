@@ -5,7 +5,7 @@
 
 </p>
 
-##Getting Started with Java
+## 01. Getting Started with Java
 <p>
 We will start with a simple tutorial for Java programming for absolute beginners. This will be the first lesson, but it is just a start. In the next few weeks, we will publish a series of free Java lessons, which follow logically one after another, so if you want to learn Java coding, just follow the lessons in the correct order. 
 </p>
