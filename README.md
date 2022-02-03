@@ -33,7 +33,7 @@
 📌 [19. API Classes](#-19-API-Classes)<br>
 📌 [20. JDK and JRE](#-20-JDK-and-JRE)<br>
 
-## About
+### About
 
 Java is one of the most used programming languages. It's easy to learn, and you can run it on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.
 
@@ -43,10 +43,10 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 #### Why take our Java Certification course?
 
-🎯 It's 100% FREE
-🎯 It will prepare you for the official Oracle Java Foundations exam (Exam Number: 1Z0-811)
-🎯 It's led by professionals with many years of experience
-🎯 It includes many in-depth explanations and practical exercises for your guaranteed success on the exam
+🎯 It's 100% FREE<br>
+🎯 It will prepare you for the official Oracle Java Foundations exam (Exam Number: 1Z0-811)<br>
+🎯 It's led by professionals with many years of experience<br>
+🎯 It includes many in-depth explanations and practical exercises for your guaranteed success on the exam<br>
 
 #### Who will lead this course?
 | Image | Name | About |
