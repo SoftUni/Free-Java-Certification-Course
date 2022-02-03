@@ -11,7 +11,7 @@
 <p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 38-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this Github repository.</p>
 
 #### Table Of Contents
-📌 [0. About](#-About)<br>
+📌 [0. About](#About)<br>
 📌 [1. Getting Started with Java](#-1-Getting-Started-with-Java)<br>
 📌 [2. IntelliJ IDEA](#-2-IntelliJ-IDEA)<br>
 📌 [3. Console-Based Input and Output](#-3-Console-Based-Input-and-Output)<br>
