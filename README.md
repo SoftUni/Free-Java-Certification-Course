@@ -11,9 +11,9 @@
 <p>This is the repository for Java Foundations Certification Course.</p>
 
 #### Table Of Contents
-📌 [1. Getting Started with Java](#-Getting-Started-with-Java)<br>
-📌 [2. IntelliJ IDEA](#-IntelliJ-IDEA)<br>
-📌 [3. Console-Based Input and Output](#-Console-Based-Input-and-Output)<br>
+📌 [1. Getting Started with Java](#-1.-Getting-Started-with-Java)<br>
+📌 [2. IntelliJ IDEA](#-2.-IntelliJ-IDEA)<br>
+📌 [3. Console-Based Input and Output](#-3.-Console-Based-Input-and-Output)<br>
 📌 [4. Data and Calculations](#-Data-and-Calculations)<br>
 📌 [5. Conditional Statements](#-Conditional-Statements)<br>
 📌 [6. Advanced Conditional Statements](#-Advanced-Conditional-Statements)<br>
