@@ -8,9 +8,10 @@
 
 #### 📕 Info
 
-<p>This is the repository for Java Foundations Certification Course.</p>
+<p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 38-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the chapters folder on this Github repository.</p>
 
 #### Table Of Contents
+📌 [0. About](#-About)<br>
 📌 [1. Getting Started with Java](#-1-Getting-Started-with-Java)<br>
 📌 [2. IntelliJ IDEA](#-2-IntelliJ-IDEA)<br>
 📌 [3. Console-Based Input and Output](#-3-Console-Based-Input-and-Output)<br>
@@ -32,13 +33,33 @@
 📌 [19. API Classes](#-19-API-Classes)<br>
 📌 [20. JDK and JRE](#-20-JDK-and-JRE)<br>
 
+## About
+
+Java is one of the most used programming languages. It's easy to learn, and you can run it on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.
+
+This course will help you learn the core elements of programming with a practical, hands-on approach. We cover everything from the basics to the advanced features.
+
+After finishing this course, you will be ready for the official exam from Oracle – Java Foundations 1Z0-811. It is version-independent and will be valid forever.
+
+#### Why take our Java Certification course?
+
+🎯 It's 100% FREE
+🎯 It will prepare you for the official Oracle Java Foundations exam (Exam Number: 1Z0-811)
+🎯 It's led by professionals with many years of experience
+🎯 It includes many in-depth explanations and practical exercises for your guaranteed success on the exam
+
+#### Who will lead this course?
+| Image | Name | About |
+| - | - | - |
+| <img src="chapters/assets/cover-page/Svetlin-Nakov.png" alt="Svetlin Nakov" width="2000"> | [Svetlin Nakov](https://www.linkedin.com/in/nakov/) | Svetlin Nakov is co-founder and the main inspirer of [SoftUni](https://softuni.org) - the leading institution for training software engineering, IT and digital skills in Bulgaria, attended by tens of thousands of young developers. Svetlin has solid professional experience (20+ years) as software developer and consultant, blockchain technologies, C#, .NET Framework, Java, Java EE, databases, JavaScript, Oracle, SQL Server, Web development, HTML, CSS, JSP/Servlets, GWT, PHP, Python, software engineering and project management. | 
+| <img src="chapters/assets/cover-page/George-Georgiev.png" alt="Georgi Georgiev" width="2000"> | George Georgiev | George Georgiev is a senior software engineer with many years of experience with Java, JavaScript and C++. George enjoys teaching programming very much and is one of the top trainers at the Software University, having delivered over 300 technical training sessions on the topics of data structures and algorithms, Java essentials, Java fundamentals, C++ programming, C# development and many others. | 
+
 ### 🏁 1. Getting Started with Java
-<p>
-This code lesson teaches the first steps in coding with Java: writing code commands, writing simple Java programs, compiling and running the code. It comes with practical exercises with automated grading.</p>
+<p>This code lesson teaches the first steps in coding with Java: writing code commands, writing simple Java programs, compiling and running the code. It comes with practical exercises with automated grading.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Getting Started with Java | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 01-Getting-Started-with-Java | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 
 ### 💻 2. IntelliJ IDEA
@@ -175,3 +196,4 @@ By the end of the lesson, you will be familiar with the objects and class work a
 | GitHub Chapter Name | Link |
 | :- | - |
 | JDK and JRE | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+
