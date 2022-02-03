@@ -59,7 +59,7 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 01-Getting-Started-with-Java | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 01-Getting-Started-with-Java.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 
 ### 💻 2. IntelliJ IDEA
