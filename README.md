@@ -8,7 +8,7 @@
 
 #### 📕 Info
 
-<p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 38-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the chapters folder on this Github repository.</p>
+<p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 38-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this Github repository.</p>
 
 #### Table Of Contents
 📌 [0. About](#-About)<br>
@@ -59,7 +59,7 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 01-Getting-Started-with-Java.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 01-Getting-Started-with-Java.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/01-Getting-Started-with-Java.md) |
 
 
 ### 💻 2. IntelliJ IDEA
@@ -67,91 +67,91 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| IntelliJ IDEA | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 02-InteliJ-IDEA.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### ⌨️ 3. Console-Based Input and Output
 <p>Learn how to process console input and output in Java, how to read text and numbers and how to print formatted text, integers and floating-point numbers on the console. Solve several practical problems and submit them for automated grading in the SoftUni Judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Console-Based Input and Output | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 03-Console-Based-Input-and-Output.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 💾 4. Data and Calculations
 <p>Learn how to use variables, data types, expressions and statements to perform simple calculations in Java. Practice your new skills with the hands-on exercises, coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Data and Calculations | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 04-Data-and-Calculations.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### ➡️ 5. Conditional Statements
 <p>Learn how to use logical expressions, conditional statements, code debugging, and breaking. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Conditional Statements | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 05-Conditional-Statements.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🔀 6. Advanced Conditional Statements
 <p>Learn how to work with the nested condition, switch case, and multi-label switch-case. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Advanced Conditional Statements | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 06-Advanced-Conditional-Statements.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🔁 7. For Loops
 <p>Learn how to work with the nested condition, switch case, and multi-label switch-case. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| For Loops | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 07-For-Loops.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🔂 8. While Loops
 <p>In programming, a loop is used to repeat a block of code until a specified condition is met. The for loop is best when you want to do something for a fixed number of times.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| While Loops | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 08-While-Loops.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🔄 9. Nested Loops
 <p>In programming, a loop is used to repeat a block of code until a specified condition is met. The while loop controls flow statement that allows code to be executed repeatedly based on a given boolean condition.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Nested Loops | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 09-Nested-Loops.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🗃️ 10. Arrays
 <p>Build a strong foundation of knowledge in Java programming! In this lesson, we take a look at arrays and how to use them! We shall learn how to define and initialize and array, to to access its elements, how to read and print arrays, and basic array algorithms.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Arrays | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 10-Arrays.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 📌 11. Methods
 <p>In this lesson, we will review another very important paradigm in the programming universe – methods. We will find a few ways in which will make our code more organized and readable. Also, we are going to learn how to extend the functionality of our code. We shall learn how to define and invoke methods and how to use parameters and return a value.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Methods | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 11-Methods.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 📋 12. Lists
 <p>Lists are one of the most popular data structures in programming, as they allow for flexibility. Unlike arrays, their length is not fixed and you can insert and delete elements at any point. In this lesson, we shall learn how to use lists in Java, how to define and initialize list, how to access its elements, how to add, edit, delete and insert elements, how to read, print and traverse lists.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Lists | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 12-Lists.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🖊️ 13. Strings and Text Processing
 <p>Learn about strings and text processing in Java, how to read and print strings, how to search in a string, how to extract a substring, how to remove a substring and how to build a string.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Strings and Text Processing | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 13-Strings-and-Text-Processing.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🗺️ 14. Maps, Lambda and Stream API
 <p>Build a strong foundation of knowledge in Java programming! In this lesson, we take a look at maps, lambda expressions, and the stream API in Java. We shall learn how to map keys to values, how to process sequences of elements (streams) and how to filter, transform, sort and aggregate the elements.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Maps, Lambda and Stream API | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 14-Maps,-Lambda-and-Stream-API.md | [To Chapter](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
 ### 🧱 15. Objects and Classes
 <p>This lesson provides a great overview of objects and classes if you are a beginner on the topic. With it, you will make your first steps in the world of Object-Oriented Programming (OOP), which is one of the most widely-used programming paradigms in modern programming. 
