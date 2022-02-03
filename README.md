@@ -13,24 +13,24 @@
 #### Table Of Contents
 📌 [1. Getting Started with Java](#-1-Getting-Started-with-Java)<br>
 📌 [2. IntelliJ IDEA](#-2-IntelliJ-IDEA)<br>
-📌 [3. Console-Based Input and Output](#-3.-Console-Based-Input-and-Output)<br>
-📌 [4. Data and Calculations](#-Data-and-Calculations)<br>
-📌 [5. Conditional Statements](#-Conditional-Statements)<br>
-📌 [6. Advanced Conditional Statements](#-Advanced-Conditional-Statements)<br>
-📌 [7. For Loops](#-For-Loops)<br>
-📌 [8. While Loops](#-While-Loops)<br>
-📌 [9 Nested Loops](#-Nested-Loops)<br>
-📌 [10. Arrays](#-Arrays)<br>
-📌 [11. Methods](#-Methods)<br>
-📌 [12. Lists](#-Lists)<br>
-📌 [13. Strings and Text Processing](#-Strings-and-Text-Processing)<br>
-📌 [14. Maps, Lambda and Stream API](#-Maps,-Lambda-and-Stream-API)<br>
-📌 [15. Objects and Classes](#-Objects-and-Classes)<br>
-📌 [16. Defining Classes](#-Defining-Classes)<br>
-📌 [17. OOP Principles](#-OOP-Principles)<br>
-📌 [18. Exception Handling](#-Exception-Handling)<br>
-📌 [19. API Classes](#-API-Classes)<br>
-📌 [20. JDK and JRE](#-JDK-and-JRE)<br>
+📌 [3. Console-Based Input and Output](#-3-Console-Based-Input-and-Output)<br>
+📌 [4. Data and Calculations](#-4-Data-and-Calculations)<br>
+📌 [5. Conditional Statements](#-5-Conditional-Statements)<br>
+📌 [6. Advanced Conditional Statements](#-6-Advanced-Conditional-Statements)<br>
+📌 [7. For Loops](#-7-For-Loops)<br>
+📌 [8. While Loops](#-8-While-Loops)<br>
+📌 [9 Nested Loops](#-9-Nested-Loops)<br>
+📌 [10. Arrays](#-10-Arrays)<br>
+📌 [11. Methods](#-11-Methods)<br>
+📌 [12. Lists](#-12-Lists)<br>
+📌 [13. Strings and Text Processing](#-13-Strings-and-Text-Processing)<br>
+📌 [14. Maps, Lambda and Stream API](#-14-Maps,-Lambda-and-Stream-API)<br>
+📌 [15. Objects and Classes](#-15-Objects-and-Classes)<br>
+📌 [16. Defining Classes](#-16-Defining-Classes)<br>
+📌 [17. OOP Principles](#-17-OOP-Principles)<br>
+📌 [18. Exception Handling](#-18-Exception-Handling)<br>
+📌 [19. API Classes](#-19-API-Classes)<br>
+📌 [20. JDK and JRE](#-20-JDK-and-JRE)<br>
 
 ### 🏁 1. Getting Started with Java
 <p>
