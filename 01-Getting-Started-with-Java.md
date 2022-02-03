@@ -18,3 +18,11 @@ We will start with a simple tutorial for Java programming for absolute beginners
 <p>
 In this lesson, Svetlin Nakov explains what is coding, what are commands and what is their syntax in Java. He teaches how to write simple Java commands and Java programs, and how to execute a Java commands and programs.
 </p>
+
+| Resources | Link |
+| ----- | :-----: |
+| YouTube Video | [Getting Started with Java](https://youtu.be/sXM31yfsj04) |
+| Article | [Getting Started with Java](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Lesson Slides | [Presentation](https://softuni.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/viewer.html?file=https://softuni.org/wp-content/uploads/2021/10/Java-Basics-Tutorial-Part-1-Getting-Started.pdf&embedded=true) |
+| Exercises: Problem Description | [Presentation](https://softuni.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/viewer.html?file=https://softuni.org/wp-content/uploads/2021/10/Java-Basics-Tutorial-Part-1-Getting-Started-Exercises.pdf&embedded=true) |
+| Test Exercises on the Judge System | [Judge System ](https://judge.softuni.org/Contests/3250/Java-Tutorial-Getting-Started-Part-1) |
