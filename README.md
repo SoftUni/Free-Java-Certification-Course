@@ -199,3 +199,7 @@ By the end of the lesson, you will be familiar with the objects and class work a
 | :- | - |
 | JDK and JRE | [To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
 
+<br>
+<br>
+<br>
+<br>
