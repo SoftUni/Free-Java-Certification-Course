@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://softuni.org/">
-    <img src="lessons/assets/cover-page/Java-Foundations-Full-Course-Nakov-Georgiev-SoftUni.png" alt="Java Foundations Cover" width="600">
+    <img src="lessons/assets/cover-page/Java-Certification-Course-SoftUni.png" alt="Java Foundations Cover" width="600">
   </a>
 
   <h3 align="center">Free Java Foundations Certification Course</h3>
@@ -8,7 +8,7 @@
 
 #### 📕 Info
 
-<p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 38-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this Github repository.</p>
+<p>This is the repository for Java Foundations Certification Course. It includes 20 lessons, 40-hours of video lessons + 112 hands-on exercises. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this Github repository.</p>
 
 #### Table Of Contents
 📌 [0. About](#About)<br>
