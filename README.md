@@ -12,9 +12,9 @@
 
 #### Table Of Contents
 📌 [0. About](#About)<br>
-📌 [1. Getting Started with Java](#-1-Getting-Started-with-Java)<br>
-📌 [2. IntelliJ IDEA](#-2-IntelliJ-IDEA)<br>
-📌 [3. Console-Based Input and Output](#-⌨️-3-Console-Based-Input-and-Output)<br>
+📌 [1. Getting Started with Java](#Getting-Started-with-Java)<br>
+📌 [2. IntelliJ IDEA](#2-IntelliJ-IDEA)<br>
+📌 [3. Console-Based Input and Output](#-3-Console-Based-Input-and-Output)<br>
 📌 [4. Data and Calculations](#-4-Data-and-Calculations)<br>
 📌 [5. Conditional Statements](#-5-Conditional-Statements)<br>
 📌 [6. Advanced Conditional Statements](#-6-Advanced-Conditional-Statements)<br>
