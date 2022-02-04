@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
-    Back to README.md
-  </a>
-</p>
-
 ## 1. Getting Started with Java
 
 <p>We will start with a simple tutorial for Java programming for absolute beginners. In this lesson, Svetlin Nakov explains what is coding, what are commands and what is their syntax in Java. He teaches how to write simple Java commands and Java programs, and how to execute a Java commands and programs.</p>
@@ -45,13 +39,13 @@ In this tutorial we cover the following topics:
 # Navigation 
 <p align="center">
   <!-- <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
-    <img src="assets/shared/buttons/arrow-left-text.png" alt="Previous-Button" width="200">
+    <img src="assets/shared/buttons/arrow-left-text.png" alt="Previous-Button" width="150">
   </a> -->
   <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
-    <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="200">
+    <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="150">
   </a>
   <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">
-    <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="200">
+    <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="150">
   </a>
 </p>
 
