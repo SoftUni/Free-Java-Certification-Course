@@ -38,9 +38,6 @@ In this tutorial we cover the following topics:
 
 # Navigation 
 <p align="center">
-  <a>
-    <img src="assets/shared/buttons/arrow-left-text.png" alt="Previous-Button" width="150">
-  </a>
   <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
     <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="150">
   </a>
