@@ -43,7 +43,7 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 #### Who will lead this course?
 | Image | Name | About |
-| - | - | - |
+| :-: | :-: | - |
 | <img src="lessons/assets/cover-page/Svetlin-Nakov.png" alt="Svetlin Nakov" width="2000"> | [Svetlin Nakov](https://www.linkedin.com/in/nakov/) | Svetlin Nakov is co-founder and the main inspirer of [SoftUni](https://softuni.org) - the leading institution for training software engineering, IT and digital skills in Bulgaria, attended by tens of thousands of young developers. Svetlin has solid professional experience (20+ years) as software developer and consultant, blockchain technologies, C#, .NET Framework, Java, Java EE, databases, JavaScript, Oracle, SQL Server, Web development, HTML, CSS, JSP/Servlets, GWT, PHP, Python, software engineering and project management. | 
 | <img src="lessons/assets/cover-page/George-Georgiev.png" alt="Georgi Georgiev" width="2000"> | George Georgiev | George Georgiev is a senior software engineer with many years of experience with Java, JavaScript and C++. George enjoys teaching programming very much and is one of the top trainers at the Software University, having delivered over 300 technical training sessions on the topics of data structures and algorithms, Java essentials, Java fundamentals, C++ programming, C# development and many others. | 
 
