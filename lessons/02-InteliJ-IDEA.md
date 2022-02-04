@@ -73,8 +73,3 @@ In this tutorial we cover the following topics:
     <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="150">
   </a>
 </p>
-
-<!-- Increase Padding of Document to enable Last Table of Content Buttons -->
-<br>
-<br>
-<br>
