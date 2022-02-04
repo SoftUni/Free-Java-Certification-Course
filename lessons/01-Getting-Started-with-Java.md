@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://youtu.be/sXM31yfsj04">
-    <img src="https://yt-embed.herokuapp.com/embed?v=sXM31yfsj04" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/01-Getting-Started-with-Java.png" alt="YouTube Thumbnail">
  </a>
 </p>
 
@@ -24,7 +24,7 @@ In this tutorial we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| YouTube Video | [Youtube](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| YouTube Video | [Youtube](https://youtu.be/sXM31yfsj04) |
 | Blog Post | [SoftUni ](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
 ## Practical Exercises
