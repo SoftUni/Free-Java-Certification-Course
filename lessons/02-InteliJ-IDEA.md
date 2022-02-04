@@ -20,7 +20,7 @@
 📌 [2. Table of Content](#-2-Table-of-Content)<br>
 📌 [3. YouTube Video](#-3-YouTube-Video)<br>
 📌 [4. Lesson Topics](#-4-Lesson-Topics)<br>
-📌 [5. Resources](#-5-Resources)<br>
+📌 [5. Resources](#5-Resources)<br>
 📌 [6. Practical Exercises](#-6-Practical-Exercises)<br>
 📌 [7. GitHub Repository Navigation](#-7-GitHub-Repository-Navigation)<br>
 
