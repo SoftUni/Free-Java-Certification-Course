@@ -51,9 +51,9 @@ In this tutorial we cover the following topics:
 
 #### 7. GitHub Repository Navigation
 <p align="center">
-  <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
+  <!-- <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
     <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="150">
-  </a>
+  </a> -->
   <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">
     <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="150">
   </a>
