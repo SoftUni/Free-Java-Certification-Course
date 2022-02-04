@@ -69,7 +69,7 @@ After finishing this course, you will be ready for the official exam from Oracle
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 02-InteliJ-IDEA.md | [To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 02-InteliJ-IDEA.md | [To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md) |
 
 ### ⌨️ 3. Console-Based Input and Output
 <p>Learn how to process console input and output in Java, how to read text and numbers and how to print formatted text, integers and floating-point numbers on the console. Solve several practical problems and submit them for automated grading in the SoftUni Judge.</p>
