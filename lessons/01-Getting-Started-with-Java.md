@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://youtu.be/sXM31yfsj04">
-    <img src="https://yt-embed.herokuapp.com/embed?v=sXM31yfsj04" alt="YouTube Thumnail">
+    <img src="https://yt-embed.herokuapp.com/embed?v=sXM31yfsj04" alt="YouTube Thumbnail">
  </a>
 </p>
 
@@ -42,24 +42,18 @@ In this tutorial we cover the following topics:
 |  Problem Descriptions | [In Blog Post After Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 | Submit Solutions | [Automated Judge System ](https://judge.softuni.org/Contests/3250/Java-Tutorial-Getting-Started-Part-1) |
 
-
+# Navigation 
 <p align="center">
-  <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">
-    Go to Next Lesson
-  </a>
-</p>
-
-<p align="center">
+  <!-- <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
+    <img src="assets/shared/buttons/arrow-left-text.png" alt="Previous-Button" width="200">
+  </a> -->
   <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
-    Back to README.md
+    <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="200">
+  </a>
+  <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">
+    <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="200">
   </a>
 </p>
-
-
-
-
-
-
 
 <!-- | All Resources | Link |
 | ----- | :-----: |
