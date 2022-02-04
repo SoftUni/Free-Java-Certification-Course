@@ -42,9 +42,10 @@ In this tutorial we cover the following topics:
 * Creating a Console App
 * Configuring JDK in IntelliJ IDEA
 * Coding Exercises
-<p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
 
 #### 5. Resources
+<p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
+
 | Resources | Link |
 | -| - |
 | YouTube Video | [Youtube](https://youtu.be/3Hny8Mz2agQ) |
