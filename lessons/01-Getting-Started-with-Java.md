@@ -37,8 +37,8 @@ In this tutorial we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| YouTube Video | [Youtube](https://youtu.be/sXM31yfsj04) |
-| Blog Post | [SoftUni ](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Lesson Video (YouTube) | [Youtube](https://youtu.be/sXM31yfsj04) |
+| Lesson Content (Blog Post) | [SoftUni ](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
 #### 6. Practical Exercises
 <p> <a href="https://softuni.org/checkout/join-community"> Register</a> now and take your free resources right away! You will get access to automated exercises which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for FREE. </p> 
@@ -46,20 +46,10 @@ In this tutorial we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-|  Problem Descriptions | [In Blog Post After Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
-| Submit Solutions | [Automated Judge System ](https://judge.softuni.org/Contests/3250/Java-Tutorial-Getting-Started-Part-1) |
+| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
-#### 7. GitHub Repository Navigation
-<p align="center">
-  <!-- <a href="https://github.com/SoftUni/Free-Java-Certification-Course">
-    <img src="assets/shared/buttons/home-button-text-2.png" alt="Home-Button" width="150">
-  </a> -->
-  <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">
-    <img src="assets/shared/buttons/arrow-right-text.png" alt="Next-Button" width="150">
-  </a>
-</p>
+#### 7. Navigation
 
-<!-- | All Resources | Link |
-| ----- | :-----: |
-| Lesson Slides | [Presentation](https://softuni.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/viewer.html?file=https://softuni.org/wp-content/uploads/2021/10/Java-Basics-Tutorial-Part-1-Getting-Started.pdf&embedded=true) |
-| Exercises: Problem Description | [Presentation](https://softuni.org/wp-content/plugins/pdf-viewer-for-elementor/assets/pdfjs/web/viewer.html?file=https://softuni.org/wp-content/uploads/2021/10/Java-Basics-Tutorial-Part-1-Getting-Started-Exercises.pdf&embedded=true) |-->
+« Previuos Lesson &nbsp; | &nbsp; [Next Lesson »](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md) &nbsp;  | &nbsp;  [Home](https://github.com/SoftUni/Free-Java-Certification-Course)
+
