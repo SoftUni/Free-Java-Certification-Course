@@ -1,10 +1,8 @@
-<p align="center">
-  <h1 align="center">Free Java Foundations Certification Course</h1>
+# Free Java Foundations Certification Course
 
-  <a href="https://softuni.org/courses/java-basics-free">
-    <img src="lessons/assets/cover-page/Java-Certification-Course-SoftUni.png" alt="Java Foundations Cover" width="600">
-  </a>
-</p>
+<a href="https://softuni.org/courses/java-basics-free">
+  <img src="lessons/assets/cover-page/Java-Certification-Course-SoftUni.png" alt="Java Foundations Cover" width="600">
+</a>
 
 #### 📕 Info
 
