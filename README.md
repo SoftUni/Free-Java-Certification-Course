@@ -8,7 +8,7 @@
 
 #### 📕 Info
 
-<p>This is a free **Java Foundations Certification Course** from SoftUni Global. It includes **20 lessons**, **40-hours of video lessons** + **112 hands-on exercises**. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this GitHub repository.</p>
+This is a free **Java Foundations Certification Course** from SoftUni Global. It includes **20 lessons**, **40-hours of video lessons** + **112 hands-on exercises**. To make it easier for you, we have separated each lesson into a different markdown file. You can see them inside the lessons folder on this GitHub repository.
 
 #### Table Of Contents
 📌 [0. About](#About)<br>
