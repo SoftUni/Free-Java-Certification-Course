@@ -3,7 +3,7 @@
     <img src="lessons/assets/cover-page/Java-Certification-Course-SoftUni.png" alt="Java Foundations Cover" width="600">
   </a>
 
-  <h3 align="center">Free Java Foundations Certification Course</h3>
+  <h1 align="center">Free Java Foundations Certification Course</h1>
 </p>
 
 #### 📕 Info
