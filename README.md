@@ -136,28 +136,28 @@ George Georgiev is a senior software engineer with many years of experience with
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 11-Methods.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 11-Methods.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/11-Methods.md) |
 
 ### 12. Lists
 <p>Lists are one of the most popular data structures in programming, as they allow for flexibility. Unlike arrays, their length is not fixed and you can insert and delete elements at any point. In this lesson, we shall learn how to use lists in Java, how to define and initialize list, how to access its elements, how to add, edit, delete and insert elements, how to read, print and traverse lists.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 12-Lists.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 12-Lists.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/12-Lists.md) |
 
 ### 13. Strings and Text Processing
 <p>Learn about strings and text processing in Java, how to read and print strings, how to search in a string, how to extract a substring, how to remove a substring and how to build a string.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 13-Strings-and-Text-Processing.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 13-Strings-and-Text-Processing.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/13-Strings-and-Text-Processing.md) |
 
 ### 14. Maps, Lambda and Stream API
 <p>Build a strong foundation of knowledge in Java programming! In this lesson, we take a look at maps, lambda expressions, and the stream API in Java. We shall learn how to map keys to values, how to process sequences of elements (streams) and how to filter, transform, sort and aggregate the elements.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 14-Maps,-Lambda-and-Stream-API.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 14-Maps,-Lambda-and-Stream-API.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/14-Maps%2C-Lambda-and-Stream-API.md) |
 
 ### 15. Objects and Classes
 <p>This lesson provides a great overview of objects and classes if you are a beginner on the topic. With it, you will make your first steps in the world of Object-Oriented Programming (OOP), which is one of the most widely-used programming paradigms in modern programming. 
@@ -166,39 +166,39 @@ By the end of the lesson, you will be familiar with the objects and class work a
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Objects and Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| Objects and Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/15-Objects-and-Classes.md) |
 
 ### 16. Defining Classes
 <p>You will go over the topics of defining simple classes, conventions, and best practices in doing so, creating objects of these classes, object references, and what is the difference between an object and a class. </p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Defining Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| Defining Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/16-Defining-Classes.md) |
 
 ### 17. OOP Principles
 <p>Learn the four pillars of Object-Oriented Programming (OOP): encapsulation, abstraction, inheritance and polymorphism. Learn how to define classes with properties, how to define and use interfaces in Java, how to inherit classes and how invoke abstract actions using polymorphism.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| OOP Principles | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| OOP Principles | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/17-OOP-Principles.md) |
 
 ### 18. Exception Handling
 <p>Learn about exception handling in Java: how to throw and catch exceptions, the exception class hierarchy, the compile-time and runtime exceptions and others.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| Exception Handling | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| Exception Handling | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/18-Exception-Handling.md) |
 
 ### 19. API Classes
 <p>In the current lesson, we take a closer look at the most frequently used Java API classes. Get familiar with the Math class, how to generate random numbers, the need for BigInteger and BigDecimal in programming, and how to work with date and time in Java. We will also look at two of the main Java classes – Arrays and Formatter.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| API Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| API Classes | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/19-API-Classes.md) |
 
 ### 20. JDK and JRE
 <p>You will go over the topics of JDK, JRE, and command-line Java tools. You will learn how to compile and run a Java program through console commands, the concept of classpath, JAR archives and Java modules.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| JDK and JRE | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| JDK and JRE | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/20-JDK-and-JRE.md) |
