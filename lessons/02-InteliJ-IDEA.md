@@ -46,7 +46,7 @@ In this tutorial we cover the following topics:
 | Resources | Link |
 | - | :-: |
 |  Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://judge.softuni.org/Contests/3252/Java-Tutorial-IntelliJ-IDEA-Part-2) |
+| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
 
 #### 7. GitHub Repository Navigation
 
