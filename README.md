@@ -80,56 +80,56 @@ George Georgiev is a senior software engineer with many years of experience with
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 03-Console-Based-Input-and-Output.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 03-Console-Based-Input-and-Output.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/03-Console-Based-Input-and-Output.md) |
 
 ### 4. Data and Calculations
 <p>Learn how to use variables, data types, expressions and statements to perform simple calculations in Java. Practice your new skills with the hands-on exercises, coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 04-Data-and-Calculations.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 04-Data-and-Calculations.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/04-Data-and-Calculations.md) |
 
 ### 5. Conditional Statements
 <p>Learn how to use logical expressions, conditional statements, code debugging, and breaking. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 05-Conditional-Statements.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 05-Conditional-Statements.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/05-Conditional-Statements.md) |
 
 ### 6. Advanced Conditional Statements
 <p>Learn how to work with the nested condition, switch case, and multi-label switch-case. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 06-Advanced-Conditional-Statements.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 06-Advanced-Conditional-Statements.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/06-Advanced-Conditional-Statements.md) |
 
 ### 7. For Loops
 <p>Learn how to work with the nested condition, switch case, and multi-label switch-case. Practice your new skills with the hands-on exercises coming with this code lesson. Get an automated evaluation for your code in the SoftUni judge.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 07-For-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 07-For-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/07-For-Loops.md) |
 
 ### 8. While Loops
 <p>In programming, a loop is used to repeat a block of code until a specified condition is met. The for loop is best when you want to do something for a fixed number of times.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 08-While-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 08-While-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/08-While-Loops.md) |
 
 ### 9. Nested Loops
 <p>In programming, a loop is used to repeat a block of code until a specified condition is met. The while loop controls flow statement that allows code to be executed repeatedly based on a given boolean condition.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 09-Nested-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 09-Nested-Loops.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/09-Nested-Loops.md) |
 
 ### 10. Arrays
 <p>Build a strong foundation of knowledge in Java programming! In this lesson, we take a look at arrays and how to use them! We shall learn how to define and initialize and array, to to access its elements, how to read and print arrays, and basic array algorithms.</p>
 
 | GitHub Chapter Name | Link |
 | :- | - |
-| 10-Arrays.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/01-Getting-Started-with-Java.md) |
+| 10-Arrays.md | [Go To Lesson](https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/10-Arrays.md) |
 
 ### 11. Methods
 <p>In this lesson, we will review another very important paradigm in the programming universe – methods. We will find a few ways in which will make our code more organized and readable. Also, we are going to learn how to extend the functionality of our code. We shall learn how to define and invoke methods and how to use parameters and return a value.</p>
