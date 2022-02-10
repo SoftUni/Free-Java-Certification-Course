@@ -21,7 +21,6 @@ Finally, the instructor shows you how to use the **SoftUni Judge**, our automate
 <a href="https://youtu.be/sXM31yfsj04">
     <img src="assets/embedded-videos/01-Getting-Started-with-Java.png" alt="YouTube Thumbnail">
  </a>
- <!-- <small><a href="https://youtu.be/sXM31yfsj04">https://youtu.be/sXM31yfsj04</a></small> -->
 </p>
 
 #### 4. Lesson Topics
