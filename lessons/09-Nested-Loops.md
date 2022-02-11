@@ -19,7 +19,7 @@
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/FU90zeFZZFs">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/9.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

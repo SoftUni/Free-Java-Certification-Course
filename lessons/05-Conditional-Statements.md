@@ -23,7 +23,7 @@ To sum it up,<strong> conditional statements</strong> are something that you mus
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/7H3K4g8BQ3w">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/5.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

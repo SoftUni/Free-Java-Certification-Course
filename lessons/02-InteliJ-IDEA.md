@@ -16,7 +16,7 @@ In this lesson, Svetlin Nakov talks about development environments (IDEs), which
 #### 3. YouTube Video
 <p align="center">
 <a href="https://youtu.be/3Hny8Mz2agQ">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/2.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

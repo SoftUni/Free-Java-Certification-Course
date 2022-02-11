@@ -19,7 +19,7 @@ Svetlin Nakov demonstrates several ways to use a **console** for user **input** 
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/JcT7eh_X_sM">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/3.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

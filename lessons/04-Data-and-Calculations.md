@@ -33,7 +33,7 @@ These may seem like simple operators, but when correctly, used they can be of he
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/tuLo1BPRCqM">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/4.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

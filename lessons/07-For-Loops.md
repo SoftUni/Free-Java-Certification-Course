@@ -49,7 +49,7 @@ In conclusion, you should use a <strong>For Loop</strong> when you know how many
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/VyoaWLnbDi0">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/7.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

@@ -38,7 +38,7 @@ Both <strong>While</strong> and <strong>For Loops</strong> repeat a block of cod
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/dG2Mcibyw3E">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/8.png" alt="YouTube Thumbnail">
  </a>
 </p>
 
