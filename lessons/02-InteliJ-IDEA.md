@@ -15,7 +15,7 @@
 #### 3. YouTube Video
 <p align="center">
 <a href="https://youtu.be/3Hny8Mz2agQ">
-    <img src="assets/embedded-videos/02-InteliJ-IDEA.png" alt="YouTube Thumbnail">
+    <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
 
