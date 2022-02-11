@@ -52,5 +52,5 @@ Please watch the video and solve the exercise problems. Writing code is the only
 #### 7. Navigation
 
 <p align="center">
-    <a href="https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/01-Getting-Started-with-Java.md">« Previous Lesson</a> &nbsp; | &nbsp; <a href="https://github.com/SoftUni/Free-Java-Certification-Course">Home</a> &nbsp; | &nbsp; <a href="https://github.com/SoftUni/Free-Java-Certification-Course/tree/main/lessons/02-InteliJ-IDEA.md">Next Lesson »</a>
+    <a href="https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/01-Getting-Started-with-Java.md">« Previous Lesson</a> &nbsp; | &nbsp; <a href="https://github.com/SoftUni/Free-Java-Certification-Course">Home</a> &nbsp; | &nbsp; <a href="https://github.com/SoftUni/Free-Java-Certification-Course/blob/main/lessons/03-Console-Based-Input-and-Output.md">Next Lesson »</a>
 </p>
