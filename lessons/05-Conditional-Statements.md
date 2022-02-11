@@ -18,7 +18,7 @@ To sum it up, conditional statements are something that you must learn if you wa
 * [4. Lesson Topics](#4-Lesson-Topics)
 * [5. Resources](#5-Resources)
 * [6. Practical Exercises](#6-Practical-Exercises)
-* [7. GitHub Repository Navigation](#7-GitHub-Repository-Navigation)
+* [7. Navigation](#7-Navigation)
 
 #### 3. Lesson Video
 <p align="center">
