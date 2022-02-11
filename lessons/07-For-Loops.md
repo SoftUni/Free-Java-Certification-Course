@@ -34,7 +34,7 @@ The <strong>For Loop</strong> will continue looping until the <strong>terminatio
 The increment expression is executed after each iteration of the loop. To increment the variable, we initialize it by using the<strong> ++</strong> operator. That allows the <strong>termination</strong> expression to know how many times the loop loops. The <strong>initialization</strong> variable count, in our example, starts at 0, and it’s printed out. Then the <strong>incrementer</strong> increments it, and the next iteration of the loop runs to print the new value and continues that way until it prints 9.
 <br>
 <br>
-In conclusion, you should use a <strong>For Loop</strong> when you know how many times the loop should run. There are other more<strong> advanced iteration structures</strong> that we will look at in the next article.
+In conclusion, you should use a <strong>For Loop</strong> when you know how many times the loop should run. There are other more<strong> advanced iteration structures</strong> that we will look at in the next lesson.
 
 
 #### 2. Table of Contents
