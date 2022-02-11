@@ -2,11 +2,11 @@
 
 
 #### 1. Lesson Summary
-In this lesson, Svetlin Nakov explains what **coding** is, what **commands** are and what is their syntax in Java. He teaches how to write simple **Java commands** and **Java programs**, and how to **run the Java code** and see the execution results.
-
-Together we will solve a few **coding exercises** to practice the new skills from this lesson. We shall use a **free online code editor** called **repl.it**, so you need nothing more than your laptop. It is recommended to **use a laptop** instead of a tablet or smartphone, because it works better.
-
-Finally, the instructor shows you how to use the **SoftUni Judge**, our automated code evaluation system and how to submit your code for automated grading.
+<p>A nested loop is the placement of a loop inside another loop to execute the operations that need multiple loop traversals, such as printing star patterns. Although it helps to make our task easier, it also increases the complexity of the program thus must be used efficiently.</p>
+<p>In this lesson, we continue with the <strong>Java Basics Tutorial</strong>. That is the ninth part of this series, and if you want to see the complete list of lessons, you can do it <a href="https://softuni.org/free-courses/java-basics/">here</a>.</p>
+<p><span>Now, onto the important part: if a loop exists inside the body of another loop, it is called a </span><b>nested loop</b><span >. It has no </span><b>limitations</b><span> that only similar types of loops can be nested. </span></p>
+<p><span >We can </span><b>nest </b><span >any loop inside any other loop, such as </span><b>while loop</b><span > inside</span><b> for loop,</b><span > and all different combinations are accepted.</span></p>
+<p>First, when we enter the body of the program, a statement such as <strong>initialization</strong> gets executed. Once a loop is found, the program checks for the <strong>condition</strong> for the outer loop, and if it returns <strong>true</strong>, it enters the loop. Once it enters the outer loop and encounters the inner loop, variables are <strong>initialized</strong> if any are present. Then it checks the <strong>condition</strong> for the inner loop, and if it returns <strong>true</strong>, the program enters into the inner loop. This procedure is repeated several times, and then the program exits from the second loop, then the first loop, and move to statements present after the loop.</p>
 
 #### 2. Table of Contents
 * [1. Lesson Summary](#1-Lesson-Summary)
@@ -19,7 +19,7 @@ Finally, the instructor shows you how to use the **SoftUni Judge**, our automate
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
+<a href="https://youtu.be/FU90zeFZZFs">
     <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
@@ -38,8 +38,8 @@ Finally, the instructor shows you how to use the **SoftUni Judge**, our automate
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
-| Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Lesson Video| [YouTube](https://youtu.be/FU90zeFZZFs) |
+| Lesson Content | [SoftUni](https://softuni.org/code-lessons/what-are-nested-loops-java-basics-part-9/) |
 
 #### 6. Practical Exercises
 <a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
@@ -47,8 +47,8 @@ Please watch the video and solve the exercise problems. Writing code is the only
 
 | Resources | Link |
 | ----- | ----- |
-| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/what-are-nested-loops-java-basics-part-9/) |
+| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/what-are-nested-loops-java-basics-part-9/) |
 
 #### 7. Navigation
 
