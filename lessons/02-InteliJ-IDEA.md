@@ -1,7 +1,8 @@
 <h1 align="center">2. IntelliJ IDEA</h1>
 
 #### 1. Summary
-<p>In this lesson, Svetlin Nakov talks about development environments (IDEs), which are used by developers to write, compile, run and debug code. He will teach you how to use IntelliJ IDEA, the most popular IDE for Java developers. He will show you how to install JDK (Java development kit), how to install and run IntelliJ IDEA, how to create a console-based app, how to write code, how to use the auto-complete to speed up coding, how to run your programs and even how to debug your code.In the video Nakov will show you how to create new Java project, choose the project type, give a name for the project, create a class with a “main” method, write some code in it, and finally, run the project.</p>
+
+In this lesson, Svetlin Nakov talks about development environments (IDEs), which are used by developers to **write**, **compile**, **run** and **debug code**. He will teach you how to use **IntelliJ IDEA**, the most popular **IDE** for Java developers. He will show you how to install **JDK** (Java development kit), how to install and run **IntelliJ IDEA**, how to create a console-based app, how to write code, how to use the auto-complete to speed up coding, how to run your programs and even how to debug your code. In the video Nakov will show you how to create new **Java** project, choose the project type, give a name for the project, create a class with a **“main”** method, write some code in it, and finally, run the project.
 
 #### 2. Table of Content
 * [1. Summary](#1-Summary)

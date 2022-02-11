@@ -1,15 +1,15 @@
 <h1 align="center">5. Conditional Statements</h1>
 
 #### 1. Lesson Summary
-In this lesson, we continue with the Java Basics Tutorial. A conditional statement is a piece of code that checks the given condition, and when it is true, the code related to it is performed. It is used to make decisions based on the conditions. Conditional statements execute when there is no condition around the statements. If you put a condition for a block of statements, the execution flow may change based on the result evaluated by the condition. This process is called decision-making.
-<br>
-Conditional statements begin with the keyword if followed by parentheses. An expression is placed inside the parentheses, then evaluated when the conditional statement is reached. 
-<br>
-The parentheses are followed by a block, which is defined inside opening { and closing } curly brackets. The source code inside the block executes if the expression inside the parentheses evaluates to true. If the expression in the conditional statement evaluates to true, the execution of the program progresses to the block defined by the conditional statement.
-<br>
-On the other hand, if the expression evaluates to false, the execution moves on to the statement after the closing curly bracket of the current conditional statement. Using the else command, we create an alternative option for when the conditional expression evaluates to false. In the case of multiple conditions, we can use the else if  command. else if is like else, but with an additional condition. It follows the if-condition, and they may be multiple.
-<br>
-To sum it up, conditional statements are something that you must learn if you want to continue developing as a programmer. They s are specified by a set of statements having boolean expressions which, are evaluated to a boolean value true or false. Conditional statements help us to make a decision based on certain conditions.
+In this lesson, we continue with the Java Basics Tutorial. A<strong> conditional statement</strong> is a piece of code that checks the given <strong>condition</strong>, and when it is <strong>true</strong>, the code related to it is performed. It is used to make decisions based on the <strong>conditions</strong>. <strong>Conditional statements</strong> execute when there is <strong>no condition</strong> around the statements. If you put a <strong>condition</strong> for a block of statements, the execution flow may change based on the result evaluated by the <strong>condition</strong>. This process is called <strong>decision-making</strong>.
+<p><span ><strong>Conditional statements</strong> begin with the keyword <strong>if</strong> followed by parentheses. An expression is placed inside the parentheses, then evaluated when the<strong> conditional statement</strong> is reached. </span></p>
+<span ></span>
+
+<span >The parentheses are followed by a block, which is defined inside opening <strong>{</strong> and closing<strong> }</strong> curly brackets. The source code inside the block executes if the expression inside the parentheses evaluates to </span><strong>true</strong><span >. If the expression in the <strong>conditional statement</strong> evaluates to <strong>true</strong>, the execution of the program progresses to the block defined by the <strong>conditional statement</strong>.</span>
+
+On the other hand, if the expression evaluates to <strong>false</strong>, the execution moves on to the statement after the closing curly bracket of the current <strong>conditional statement</strong>. Using the <strong>else</strong> command, we create an alternative option for when the <strong>conditional expression</strong> evaluates to <strong>false</strong>. In the case of multiple <strong>conditions</strong>, we can use the<strong> else if </strong> command. <strong>else if</strong> is like <strong>else</strong>, but with an additional <strong>condition</strong>. It follows the <strong>if-condition</strong>, and they may be multiple.
+
+To sum it up,<strong> conditional statements</strong> are something that you must learn if you want to continue developing as a programmer. They s are specified by a set of statements having boolean expressions which, are evaluated to a boolean value <strong>true</strong> or <strong>false</strong>. <strong>Conditional statements</strong> help us to make a decision based on certain <strong>conditions</strong>.
 
 #### 2. Table of Contents
 * [1. Lesson Summary](#1-Lesson-Summary)

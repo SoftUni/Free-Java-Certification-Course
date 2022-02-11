@@ -1,11 +1,11 @@
 <h1 align="center">3. Console-Based Input and Output</h1>
 
 #### 1. Lesson Summary
-In this lesson, Svetlin Nakov teaches how to read and work with console-based input and output. Learn how to read strings and numbers from the standard input and how to format and print text, numbers and other data to the standard output.
+In this lesson, Svetlin Nakov teaches how to read and work with console-based **input** and **output**. Learn how to read strings and numbers from the standard input and how to format and print text, numbers and other data to the standard output.
 
-The console is the terminal window that is running the Java program. I.e., that's the terminal window where you type in the command java ProgramName. When a Java program starts running, the Java runtime system will initialize many variables in support of the running program.
+The console is the **terminal** window that is running the Java program. I.e., that's the terminal window where you type in the command java **ProgramName**. When a Java program starts running, the **Java runtime system** will initialize many variables in support of the running program.
 
-Svetlin Nakov demonstrates several ways to use a console for user input and output in Java. Learn how to use the console API in Java: java.util.Scanner, System.out and System.out.print(), System.out.print() and System.out.printf() with placeholders.
+Svetlin Nakov demonstrates several ways to use a **console** for user **input** and **output** in **Java**. Learn how to use the **console API** in **Java**: **java.util.Scanner, System.out, System.out.print(), System.out.print()** and **System.out.printf()** with placeholders.
 
 #### 2. Table of Contents
 * [1. Lesson Summary](#1-Lesson-Summary)
