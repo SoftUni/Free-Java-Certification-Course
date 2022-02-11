@@ -22,16 +22,11 @@
 
 #### 4. Lesson Topics
 In this lesson we cover the following topics:
-* What is coding and how to write code in Java?
-* Online coding environments and how to use repl.it to write Java code.
-* Writing commands in Java
-* Coding concepts
-  * Programming
-  * Commands
-  * Code
-  * Algorithms
-  * IDEs
-* Coding Exercises
+* Complex Control-Flow
+* Nested Conditions
+* Logical Operators
+* Switch-Case
+* Multi-Label Switch-Case
 
 #### 5. Resources
 <p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
