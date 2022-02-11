@@ -23,7 +23,6 @@ How does <strong>For Loop</strong> work?</span>
 <span>This process goes on until the test expression is <strong>false</strong>. When the test expression is <strong>false</strong>, the loop terminates.</span>
 <p>Say we want to loop over a range of numbers and print out each one along the way. We can do this best with a <strong>For Loop</strong>. We will start from the first number, print it out, move to the next number to do the same thing, and continue until we’ve printed each number. Let’s print the numbers zero through nine:</p>
 <br>
-<br>
 Let’s look at the first line of the <strong>For Loop</strong> and the three parts necessary to make it work. First, we have an<strong> initialization</strong> expression, then <strong>termination</strong> expression, and <strong>increment</strong> expression in the end.
 <br>
 <br>
