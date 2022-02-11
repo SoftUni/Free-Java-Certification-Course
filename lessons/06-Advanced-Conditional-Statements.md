@@ -15,7 +15,7 @@
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
+<a href="https://youtu.be/L4KtlGD5cbk">
     <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
@@ -33,8 +33,8 @@ In this lesson we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
-| Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Lesson Video| [YouTube](https://youtu.be/L4KtlGD5cbk) |
+| Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-6-advanced-conditional-statements/) |
 
 #### 6. Practical Exercises
 <a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
@@ -42,8 +42,8 @@ Please watch the video and solve the exercise problems. Writing code is the only
 
 | Resources | Link |
 | ----- | ----- |
-| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-6-advanced-conditional-statements/) |
+| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-6-advanced-conditional-statements/) |
 
 #### 7. Navigation
 
