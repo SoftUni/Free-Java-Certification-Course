@@ -34,6 +34,7 @@ To sum it up, conditional statements are something that you must learn if you wa
 * Series of Checks
 * Variable Scope
 * Debugging
+* Coding Exercises
 
 #### 5. Resources
 <p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>

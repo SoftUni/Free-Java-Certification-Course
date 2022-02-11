@@ -27,6 +27,7 @@ In this lesson we cover the following topics:
 * Logical Operators
 * Switch-Case
 * Multi-Label Switch-Case
+* Coding Exercises
 
 #### 5. Resources
 <p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
