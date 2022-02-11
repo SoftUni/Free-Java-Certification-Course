@@ -28,7 +28,7 @@ These may seem like simple operators, but when correctly, used they can be of he
 * [4. Lesson Topics](#4-Lesson-Topics)
 * [5. Resources](#5-Resources)
 * [6. Practical Exercises](#6-Practical-Exercises)
-* [7. GitHub Repository Navigation](#7-GitHub-Repository-Navigation)
+* [7. Navigation](#7-Navigation)
 
 #### 3. Lesson Video
 <p align="center">

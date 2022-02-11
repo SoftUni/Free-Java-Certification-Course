@@ -10,7 +10,7 @@
 * [4. Lesson Topics](#4-Lesson-Topics)
 * [5. Resources](#5-Resources)
 * [6. Practical Exercises](#6-Practical-Exercises)
-* [7. GitHub Repository Navigation](#7-GitHub-Repository-Navigation)
+* [7. Navigation](#7-Navigation)
 
 #### 3. YouTube Video
 <p align="center">

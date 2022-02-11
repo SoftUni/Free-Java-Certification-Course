@@ -14,7 +14,7 @@ Finally, the instructor shows you how to use the **SoftUni Judge**, our automate
 * [4. Lesson Topics](#4-Lesson-Topics)
 * [5. Resources](#5-Resources)
 * [6. Practical Exercises](#6-Practical-Exercises)
-* [7. GitHub Repository Navigation](#7-GitHub-Repository-Navigation)
+* [7. Navigation](#7-Navigation)
 
 #### 3. Lesson Video
 <p align="center">
