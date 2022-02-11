@@ -4,17 +4,17 @@
 
 Data types specify the different sizes and values stored in a variable. There are two types of data in Java:
 
-Primitive data types
-Non-primitive data types
+* **Primitive data types**
+* **Non-primitive data types**
  
 
 To start, we will be using these data types only:
 
-**int** –  holds a wide range of non-fractional number values.
-**double** – only takes up to 8 bits of memory
-**boolean** – can contain only two values: true or false.
-**char** – is a symbol representing a Unicode-encoded character.
-**String** – is a sequence of characters
+**int** –  holds a wide range of non-fractional number values.<br>
+**double** – only takes up to 8 bits of memory<br>
+**boolean** – can contain only two values: true or false.<br>
+**char** – is a symbol representing a Unicode-encoded character.<br>
+**String** – is a sequence of characters<br>
  
 
 Besides printing them on the console, we can use them for various arithmetic operations. The table on the right shows different types of arithmetic operations. All of them are the same as the arithmetic operations you have learned in school.
@@ -32,31 +32,26 @@ These may seem like simple operators, but when correctly, used they can be of he
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
+<a href="https://youtu.be/tuLo1BPRCqM">
     <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
 
 #### 4. Lesson Topics
 In this lesson we cover the following topics:
-* What is coding and how to write code in Java?
-* Online coding environments and how to use repl.it to write Java code.
-* Writing commands in Java
-* Coding concepts
-  * Programming
-  * Commands
-  * Code
-  * Algorithms
-  * IDEs
-* Coding Exercises
+* Variables
+* Data Types
+* Statements
+* Arithmetic Operators
+* Expressions
 
 #### 5. Resources
 <p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
-| Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Lesson Video| [YouTube](https://youtu.be/tuLo1BPRCqM) |
+| Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-4-data-and-calculations/) |
 
 #### 6. Practical Exercises
 <a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
@@ -64,8 +59,8 @@ Please watch the video and solve the exercise problems. Writing code is the only
 
 | Resources | Link |
 | ----- | ----- |
-| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-4-data-and-calculations) |
+| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-4-data-and-calculations) |
 
 #### 7. Navigation
 
