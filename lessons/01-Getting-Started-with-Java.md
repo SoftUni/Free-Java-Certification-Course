@@ -34,6 +34,7 @@ In this lesson we cover the following topics:
   * Code
   * Algorithms
   * IDEs
+* Coding Exercises
 
 #### 5. Resources
 <p>Remember that coding is a skill, which should be practiced. To learn to code, you should write code every day for a long time. Watching tutorials is not enough. You should code! </p>
@@ -44,8 +45,8 @@ In this lesson we cover the following topics:
 | Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
 #### 6. Practical Exercises
-<p> <a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**. </p> 
-<p>Please watch the video and solve the exercise problems. Writing code is the only way to master the skill of coding. Submit your code at the SoftUni Judge.</p>
+<a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
+Please watch the video and solve the exercise problems. Writing code is the only way to master the skill of coding. Submit your code at the SoftUni Judge.
 
 | Resources | Link |
 | ----- | ----- |
