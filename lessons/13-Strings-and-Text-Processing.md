@@ -16,7 +16,7 @@ This lesson introduces **strings** and provides an in-depth explanation of **tex
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/sXM31yfsj04">
-    <img src="assets/embedded-videos/1.png" alt="YouTube Thumbnail">
+    <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
 
