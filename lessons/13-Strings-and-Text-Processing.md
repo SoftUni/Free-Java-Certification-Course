@@ -15,7 +15,7 @@ This lesson introduces **strings** and provides an in-depth explanation of **tex
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
+<a href="https://youtu.be/uTXLkIG1UCE">
     <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
@@ -38,7 +38,7 @@ In this lesson we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
+| Lesson Video| [YouTube](https://youtu.be/uTXLkIG1UCE) |
 | Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-foundations-certification-strings-and-text-processing/) |
 
 #### 6. Practical Exercises

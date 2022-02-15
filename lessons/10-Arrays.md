@@ -15,7 +15,7 @@ In this lesson, we will review the one fundamental concept in programming - **Ar
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
+<a href="https://youtu.be/7ziZU3WC83A">
     <img src="" alt="YouTube Thumbnail">
  </a>
 </p>

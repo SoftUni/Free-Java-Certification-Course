@@ -15,8 +15,8 @@
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
-    <img src="assets/embedded-videos/1.png" alt="YouTube Thumbnail">
+<a href="https://youtu.be/H57pSYrPv-g">
+    <img src="" alt="YouTube Thumbnail">
  </a>
 </p>
 
@@ -40,7 +40,7 @@ In this lesson we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
+| Lesson Video| [YouTube](https://youtu.be/H57pSYrPv-g) |
 | Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-foundations-certification-java-api-classes/) |
 
 #### 6. Practical Exercises
