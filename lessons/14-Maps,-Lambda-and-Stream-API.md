@@ -29,7 +29,7 @@ In this lesson we cover the following topics:
     * HashMap <key, value>
     * LinkedHashMap <key, value>
     * TreeMap <key, value>
-*   Lambda Expressions
+* Lambda Expressions
 * Java Stream API
     * Filtering
     * Mapping
