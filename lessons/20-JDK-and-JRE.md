@@ -27,7 +27,7 @@ In conclusion, if you want to run the java or <strong>JVM</strong>-based code, t
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/szBvTLtj6oA">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/20.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

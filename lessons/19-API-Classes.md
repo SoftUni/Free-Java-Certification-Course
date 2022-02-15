@@ -16,7 +16,7 @@
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/H57pSYrPv-g">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/19.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

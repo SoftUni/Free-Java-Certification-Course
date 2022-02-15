@@ -16,7 +16,7 @@ By now, you’ve learned all about arrays, but did you know there are more **dat
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/wOGHTzrz9Hw">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/12.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

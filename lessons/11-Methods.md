@@ -16,7 +16,7 @@ In this lesson, we will review another very important paradigm in the programmin
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/dYqouc4KMiU">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/11.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

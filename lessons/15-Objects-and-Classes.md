@@ -18,7 +18,7 @@ By the end of the lesson, you will be familiar with the <b>objects and classes <
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/WIe4xOk0Qhk">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/15.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

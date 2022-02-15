@@ -18,7 +18,7 @@ Later on in the lesson, you will become familiar with <b>data fields</b> and <b>
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/QelQ-T06oCw">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/16.png" alt="YouTube Thumbnail">
  </a>
 </p>
 

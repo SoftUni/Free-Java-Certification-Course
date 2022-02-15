@@ -28,7 +28,7 @@ To <b>raise an exception</b>, we use the <b>throw </b>keyword. When an exception
 #### 3. Lesson Video
 <p align="center">
     <a href="https://youtu.be/b6G85jwBdDM">
-        <img src="" alt="YouTube Thumbnail">
+        <img src="assets/embedded-videos/18.png" alt="YouTube Thumbnail">
     </a>
 </p>
 

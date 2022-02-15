@@ -18,7 +18,7 @@ In the current lesson, you will learn the four pillars of <b>Object-Oriented Pro
 #### 3. Lesson Video
 <p align="center">
 <a href="https://youtu.be/g7Y77u2y2Do">
-    <img src="" alt="YouTube Thumbnail">
+    <img src="assets/embedded-videos/17.png" alt="YouTube Thumbnail">
  </a>
 </p>
 
