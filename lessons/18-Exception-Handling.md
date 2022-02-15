@@ -27,9 +27,9 @@ To <b>raise an exception</b>, we use the <b>throw </b>keyword. When an exception
 
 #### 3. Lesson Video
 <p align="center">
-<a href="https://youtu.be/sXM31yfsj04">
-    <img src="assets/embedded-videos/1.png" alt="YouTube Thumbnail">
- </a>
+    <a href="https://youtu.be/b6G85jwBdDM">
+        <img src="" alt="YouTube Thumbnail">
+    </a>
 </p>
 
 #### 4. Lesson Topics
@@ -48,7 +48,7 @@ In this lesson we cover the following topics:
 
 | Resources | Link |
 | ----- | ----- |
-| Lesson Video| [YouTube](https://youtu.be/sXM31yfsj04) |
+| Lesson Video| [YouTube](https://youtu.be/b6G85jwBdDM) |
 | Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-foundations-certification-exception-handling/) |
 
 #### 6. Practical Exercises
