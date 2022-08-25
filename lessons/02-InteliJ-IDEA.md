@@ -41,13 +41,13 @@ In this tutorial we cover the following topics:
 | Lesson Content | [SoftUni ](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
 
 #### 6. Practical Exercises
-<a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
+You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
 Please watch the video and solve the exercise problems. Writing code is the only way to master the skill of coding. Submit your code at the SoftUni Judge.
 
 | Resources | Link |
 | - | :-: |
-|  Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
+|  Problem Descriptions | Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
+| Submit Solutions for Evaluation | [Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
 
 #### 7. Navigation
 
