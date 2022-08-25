@@ -50,8 +50,8 @@ Please watch the video and solve the exercise problems. Writing code is the only
 
 | Resources | Link |
 | ----- | ----- |
-| Problem Descriptions | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
-| Submit Solutions for Evaluation | [Available after Free Registration](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Problem Descriptions | [Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
+| Submit Solutions for Evaluation | [Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
 #### 7. Navigation
 
