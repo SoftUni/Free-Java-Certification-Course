@@ -46,7 +46,7 @@ Please watch the video and solve the exercise problems. Writing code is the only
 
 | Resources | Link |
 | - | :-: |
-|  Problem Descriptions | Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
+|  Problem Descriptions | [Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
 | Submit Solutions for Evaluation | [Access the Learning Materials](https://softuni.org/code-lessons/java-basics-tutorial-part-2-intellij-idea) |
 
 #### 7. Navigation
