@@ -45,7 +45,7 @@ In this lesson we cover the following topics:
 | Lesson Content | [SoftUni](https://softuni.org/code-lessons/java-basics-tutorial-part-1-getting-started-with-java/) |
 
 #### 6. Practical Exercises
-<a href="https://softuni.org/checkout/join-community">Register</a> now and take your free resources right away! You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
+You will get access to **automated exercises** which will sharpen your coding skills. Become a member of the SoftUni Global Community and communicate with other students and mentors and get help for **FREE**.
 Please watch the video and solve the exercise problems. Writing code is the only way to master the skill of coding. Submit your code at the SoftUni Judge.
 
 | Resources | Link |
